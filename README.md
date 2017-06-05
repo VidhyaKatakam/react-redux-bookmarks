@@ -16,10 +16,10 @@ React &amp; Redux bookmarks
 # Redux
 
 - **Improving React and Redux performance with Reselect**  
-  https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-round-2-2042e5c9af97
+  http://blog.rangle.io/react-and-redux-performance-with-reselect/
 
 
 
 
 
-http://blog.rangle.io/react-and-redux-performance-with-reselect/
+
