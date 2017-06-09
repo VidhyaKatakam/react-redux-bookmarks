@@ -24,6 +24,12 @@ React &amp; Redux bookmarks
 
 - **Improving React and Redux performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/
+  
+- **Immutable JS: worth the cost?**  
+  https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
+  
+  
+  
 
 
 
