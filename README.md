@@ -31,6 +31,12 @@ React &amp; Redux bookmarks
 
 # Redux
 
+- **Structuring a Redux app in 'Ducks' modular style**  
+  http://blog.sapegin.me/all/react-structure
+
+- **Ducks modular proposal**  
+  https://github.com/erikras/ducks-modular-redux
+  
 - **Organizing a Redux Application**  
   https://jaysoo.ca/2016/02/28/organizing-redux-application/
 
@@ -40,4 +46,6 @@ React &amp; Redux bookmarks
 - **Immutable JS: worth the cost?**  
   https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
   
+ 
+ 
  
