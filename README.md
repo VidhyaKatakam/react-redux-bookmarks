@@ -31,17 +31,13 @@ React &amp; Redux bookmarks
 
 # Redux
 
+- **Organizing a Redux Application**  
+  https://jaysoo.ca/2016/02/28/organizing-redux-application/
+
 - **Improving React and Redux performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/
   
 - **Immutable JS: worth the cost?**  
   https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
   
-  
-  
-
-
-
-
-
-
+ 
