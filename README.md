@@ -16,7 +16,7 @@ React &amp; Redux bookmarks
   https://stackoverflow.com/questions/35186246/how-to-handle-tons-of-dom-operation-from-d3-in-react-to-take-advantage-of-its-vi
 
 - **React + D3.js: Balancing Performance & Developer Experience**  
-  https://medium.com/@tibotiber/react-d3-js-balancing-performance-developer-experience-4da35f9124
+  https://medium.com/@tibotiber/react-d3-js-balancing-performance-developer-experience-4da35f912484
 
 
 
