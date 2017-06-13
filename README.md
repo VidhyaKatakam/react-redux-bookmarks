@@ -48,7 +48,13 @@ React &amp; Redux bookmarks
   
 - **Improving React and Redux performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/
-  
+
+- **A Dummy’s Guide to Redux and Thunk in React**  
+  https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
+
+- **Async operations using redux-saga**  
+  https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3
+
 - **Immutable JS: worth the cost?**  
   https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
  
