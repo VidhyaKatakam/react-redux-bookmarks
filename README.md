@@ -49,6 +49,9 @@ React &amp; Redux bookmarks
 - **Improving React and Redux performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/
 
+- **What is the best way to access a Redux Store outside a React Component?**  
+  https://stackoverflow.com/questions/38460949/what-is-the-best-way-to-access-redux-store-outside-a-react-component
+
 - **A Dummy’s Guide to Redux and Thunk in React**  
   https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
 
