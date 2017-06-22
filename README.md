@@ -49,6 +49,9 @@ React &amp; Redux bookmarks
 - **Improving React and Redux performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/
 
+- **Testing a React-Redux app using Jest and Enzyme**  
+  https://medium.com/@gethylgeorge/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
+
 - **What is the best way to access a Redux Store outside a React Component?**  
   https://stackoverflow.com/questions/38460949/what-is-the-best-way-to-access-redux-store-outside-a-react-component
 
@@ -60,6 +63,9 @@ React &amp; Redux bookmarks
 
 - **Immutable JS: worth the cost?**  
   https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
+  
+  
+  
  
  
   
